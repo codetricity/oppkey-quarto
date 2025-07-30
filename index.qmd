@@ -7,7 +7,7 @@
 :::
 
 ::: {.hero-content}
-# Deploy Adaptive Leadership to Weather Disruption
+# Deploy Adaptive AI to Business Acceleration
 
 With this two-part approach.
 
@@ -16,27 +16,42 @@ With this two-part approach.
 :::
 
 ::: {.content-cards}
-::: {.card}
+::: {.card .card-with-image}
+::: {.card-background}
+![](images/building_square.png)
+:::
 ::: {.card-content}
 ## We Watch Tech So You Don't Have To
 
 Stay ahead of the curve with our comprehensive technology insights and analysis.
+
+[Get Insights →]{.card-cta}
 :::
 :::
 
-::: {.card}
+::: {.card .card-with-image}
+::: {.card-background}
+![](images/global_business.jpg)
+:::
 ::: {.card-content}
 ## Benchmark Your Marketing Spend Against Industry Peers
 
 Compare your performance with industry standards and optimize your marketing strategy.
+
+[See the Data →]{.card-cta}
 :::
 :::
 
-::: {.card}
+::: {.card .card-with-image}
+::: {.card-background}
+![](images/meeting.jpg)
+:::
 ::: {.card-content}
 ## Where Oppgreet Comes to Life for Leaders
 
 Connect with industry experts and discover innovative solutions for your business challenges.
+
+[Buy Tickets →]{.card-cta}
 :::
 :::
 :::
