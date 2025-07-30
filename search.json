@@ -1,87 +1,45 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "midori.html",
+    "href": "midori.html",
+    "title": "Midori AI",
     "section": "",
     "text": "Oppgreet\n    \n    \n      \n    \n    \n      \n        \n          Home\n        \n        \n          About\n        \n        \n          Latest Insights\n        \n      \n      \n        Become a Client"
   },
   {
-    "objectID": "about.html#our-mission",
-    "href": "about.html#our-mission",
-    "title": "About",
-    "section": "Our Mission",
-    "text": "Our Mission\nOppgreet is a leading consulting firm that helps organizations navigate disruption through adaptive leadership strategies and innovative technology solutions."
+    "objectID": "midori.html#about-midori-ai",
+    "href": "midori.html#about-midori-ai",
+    "title": "Midori AI",
+    "section": "About Midori AI",
+    "text": "About Midori AI\n\n\n\n24/7\n\nIntelligent automation available around the clock for continuous business optimization.\n\n\n\n90%\n\nAverage efficiency improvement in workflow processes across client organizations.\n\n\n\n500+\n\nBusinesses worldwide trust Midori AI for their automation and optimization needs.\n\n\n\n3x\n\nFaster decision-making capabilities through AI-powered insights and recommendations."
   },
   {
-    "objectID": "about.html#what-we-do",
-    "href": "about.html#what-we-do",
-    "title": "About",
-    "section": "What We Do",
-    "text": "What We Do\n\nTechnology Insights: We monitor emerging technologies so you can focus on your core business\nIndustry Benchmarking: Compare your performance against industry peers and best practices\nLeadership Development: Build adaptive leadership capabilities for uncertain times\nStrategic Consulting: Develop resilient strategies that weather market disruptions"
-  },
-  {
-    "objectID": "about.html#our-approach",
-    "href": "about.html#our-approach",
-    "title": "About",
-    "section": "Our Approach",
-    "text": "Our Approach\nWe combine deep industry expertise with cutting-edge research to deliver actionable insights that drive real business results. Our two-part approach focuses on both strategic planning and tactical execution.\nContact Us →"
-  },
-  {
-    "objectID": "posts/index.html",
-    "href": "posts/index.html",
-    "title": "Latest Insights",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Midori AI for Business Acceleration",
     "section": "",
     "text": "Oppgreet\n    \n    \n      \n    \n    \n      \n        \n          Home\n        \n        \n          About\n        \n        \n          Latest Insights\n        \n      \n      \n        Become a Client"
   },
   {
-    "objectID": "posts/index.html#optimizing-ai-workflows-for-maximum-business-impact",
-    "href": "posts/index.html#optimizing-ai-workflows-for-maximum-business-impact",
-    "title": "Latest Insights",
-    "section": "Optimizing AI Workflows for Maximum Business Impact",
-    "text": "Optimizing AI Workflows for Maximum Business Impact\nLearn how to benchmark your AI workflows against industry peers and optimize your marketing strategy for better results.\nRead More →"
+    "objectID": "index.html#benchmark-your-ai-workflow-against-industry-peers",
+    "href": "index.html#benchmark-your-ai-workflow-against-industry-peers",
+    "title": "Midori AI for Business Acceleration",
+    "section": "Benchmark Your AI Workflow Against Industry Peers",
+    "text": "Benchmark Your AI Workflow Against Industry Peers\nCompare your performance with industry standards and optimize your marketing strategy.\nGet Insights →"
   },
   {
-    "objectID": "posts/index.html#the-future-of-human-ai-collaboration-in-business",
-    "href": "posts/index.html#the-future-of-human-ai-collaboration-in-business",
-    "title": "Latest Insights",
-    "section": "The Future of Human-AI Collaboration in Business",
-    "text": "The Future of Human-AI Collaboration in Business\nDiscover how strategic discussions with humans are on the rise thanks to AI handling basic QA questions, and what this means for your business.\nRead More →"
+    "objectID": "index.html#integrate-human-and-ai-workflows",
+    "href": "index.html#integrate-human-and-ai-workflows",
+    "title": "Midori AI for Business Acceleration",
+    "section": "Integrate Human and AI Workflows",
+    "text": "Integrate Human and AI Workflows\nAugment your human workflows with AI to achieve marketing results for your customers.\nLearn Best Practices →"
   },
   {
-    "objectID": "posts/ai-workflow-optimization.html",
-    "href": "posts/ai-workflow-optimization.html",
-    "title": "Optimizing AI Workflows for Maximum Business Impact",
-    "section": "",
-    "text": "Oppgreet\n    \n    \n      \n    \n    \n      \n        \n          Home\n        \n        \n          About\n        \n        \n          Latest Insights\n        \n      \n      \n        Become a Client"
-  },
-  {
-    "objectID": "posts/ai-workflow-optimization.html#the-challenge-of-ai-integration",
-    "href": "posts/ai-workflow-optimization.html#the-challenge-of-ai-integration",
-    "title": "Optimizing AI Workflows for Maximum Business Impact",
-    "section": "The Challenge of AI Integration",
-    "text": "The Challenge of AI Integration\nMany businesses struggle with AI integration because they approach it as a technology implementation rather than a strategic business transformation. The key to success lies in understanding how AI can augment human capabilities rather than replace them entirely.\n\nKey Areas for Optimization\n\nData Quality and Preparation\n\nEnsure your data is clean, relevant, and properly structured\nImplement robust data governance practices\nRegular audits of data quality and relevance\n\nWorkflow Design\n\nMap out current processes before AI integration\nIdentify bottlenecks and inefficiencies\nDesign AI workflows that complement human expertise\n\nPerformance Measurement\n\nEstablish clear KPIs for AI performance\nRegular benchmarking against industry standards\nContinuous monitoring and optimization"
-  },
-  {
-    "objectID": "posts/ai-workflow-optimization.html#best-practices-for-ai-workflow-optimization",
-    "href": "posts/ai-workflow-optimization.html#best-practices-for-ai-workflow-optimization",
-    "title": "Optimizing AI Workflows for Maximum Business Impact",
-    "section": "Best Practices for AI Workflow Optimization",
-    "text": "Best Practices for AI Workflow Optimization\n\nStart with Clear Objectives\nBefore implementing any AI solution, clearly define what you want to achieve. Are you looking to: - Reduce processing time? - Improve accuracy? - Enhance customer experience? - Increase operational efficiency?\n\n\nBenchmark Against Industry Peers\nUnderstanding how your AI workflows compare to industry standards is crucial. This involves:\n\nAnalyzing industry reports and case studies\nParticipating in industry benchmarking studies\nNetworking with peers to share best practices\nRegular assessment of competitive landscape\n\n\n\nHuman-AI Collaboration\nThe most successful AI implementations focus on augmenting human capabilities rather than replacing them. Consider:\n\nTraining employees to work effectively with AI tools\nCreating feedback loops between human and AI systems\nEnsuring AI decisions are explainable and auditable\nMaintaining human oversight for critical decisions"
-  },
-  {
-    "objectID": "posts/ai-workflow-optimization.html#measuring-success",
-    "href": "posts/ai-workflow-optimization.html#measuring-success",
-    "title": "Optimizing AI Workflows for Maximum Business Impact",
-    "section": "Measuring Success",
-    "text": "Measuring Success\nTo ensure your AI workflow optimization is delivering results, track these key metrics:\n\nEfficiency Gains: Time saved per process\nAccuracy Improvements: Reduction in errors\nCost Savings: ROI on AI investments\nUser Satisfaction: Employee and customer feedback\nScalability: Ability to handle increased workloads"
-  },
-  {
-    "objectID": "posts/ai-workflow-optimization.html#looking-ahead",
-    "href": "posts/ai-workflow-optimization.html#looking-ahead",
-    "title": "Optimizing AI Workflows for Maximum Business Impact",
-    "section": "Looking Ahead",
-    "text": "Looking Ahead\nAs AI technology continues to evolve, staying ahead requires:\n\nContinuous learning and adaptation\nRegular technology assessments\nStrategic partnerships with AI vendors\nInvestment in employee AI literacy\n\nThe future belongs to organizations that can effectively integrate AI into their workflows while maintaining the human touch that customers value.\n\nReady to optimize your AI workflows? Contact us to learn how we can help you benchmark and improve your AI strategy."
+    "objectID": "index.html#advance-your-technology-community",
+    "href": "index.html#advance-your-technology-community",
+    "title": "Midori AI for Business Acceleration",
+    "section": "Advance Your Technology Community",
+    "text": "Advance Your Technology Community\nStrategic discussions with humans is on the rise thanks to AI handling basic QA questions.\nLearn More →"
   },
   {
     "objectID": "posts/human-ai-collaboration.html",
@@ -133,31 +91,87 @@
     "text": "Getting Started\nTo implement effective human-AI collaboration in your organization:\n\nAssess Current Processes\n\nIdentify routine tasks that can be automated\nMap out customer interaction points\nAnalyze pain points and opportunities\n\nChoose the Right AI Solutions\n\nSelect tools that integrate with existing systems\nEnsure scalability and flexibility\nPrioritize user experience\n\nTrain Your Team\n\nProvide comprehensive training on new workflows\nEstablish clear communication protocols\nCreate feedback mechanisms\n\nMonitor and Optimize\n\nTrack key performance indicators\nGather feedback from customers and employees\nContinuously improve processes\n\n\nThe future of business lies in the strategic combination of human expertise and AI capabilities. Organizations that master this collaboration will gain significant competitive advantages.\n\nReady to advance your technology community? Learn more about how we can help you implement effective human-AI collaboration strategies."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Midori AI for Business Acceleration",
+    "objectID": "posts/ai-workflow-optimization.html",
+    "href": "posts/ai-workflow-optimization.html",
+    "title": "Optimizing AI Workflows for Maximum Business Impact",
     "section": "",
     "text": "Oppgreet\n    \n    \n      \n    \n    \n      \n        \n          Home\n        \n        \n          About\n        \n        \n          Latest Insights\n        \n      \n      \n        Become a Client"
   },
   {
-    "objectID": "index.html#benchmark-your-ai-workflow-against-industry-peers",
-    "href": "index.html#benchmark-your-ai-workflow-against-industry-peers",
-    "title": "Midori AI for Business Acceleration",
-    "section": "Benchmark Your AI Workflow Against Industry Peers",
-    "text": "Benchmark Your AI Workflow Against Industry Peers\nCompare your performance with industry standards and optimize your marketing strategy.\nGet Insights →"
+    "objectID": "posts/ai-workflow-optimization.html#the-challenge-of-ai-integration",
+    "href": "posts/ai-workflow-optimization.html#the-challenge-of-ai-integration",
+    "title": "Optimizing AI Workflows for Maximum Business Impact",
+    "section": "The Challenge of AI Integration",
+    "text": "The Challenge of AI Integration\nMany businesses struggle with AI integration because they approach it as a technology implementation rather than a strategic business transformation. The key to success lies in understanding how AI can augment human capabilities rather than replace them entirely.\n\nKey Areas for Optimization\n\nData Quality and Preparation\n\nEnsure your data is clean, relevant, and properly structured\nImplement robust data governance practices\nRegular audits of data quality and relevance\n\nWorkflow Design\n\nMap out current processes before AI integration\nIdentify bottlenecks and inefficiencies\nDesign AI workflows that complement human expertise\n\nPerformance Measurement\n\nEstablish clear KPIs for AI performance\nRegular benchmarking against industry standards\nContinuous monitoring and optimization"
   },
   {
-    "objectID": "index.html#integrate-human-and-ai-workflows",
-    "href": "index.html#integrate-human-and-ai-workflows",
-    "title": "Midori AI for Business Acceleration",
-    "section": "Integrate Human and AI Workflows",
-    "text": "Integrate Human and AI Workflows\nAugment your human workflows with AI to achieve marketing results for your customers.\nLearn Best Practices →"
+    "objectID": "posts/ai-workflow-optimization.html#best-practices-for-ai-workflow-optimization",
+    "href": "posts/ai-workflow-optimization.html#best-practices-for-ai-workflow-optimization",
+    "title": "Optimizing AI Workflows for Maximum Business Impact",
+    "section": "Best Practices for AI Workflow Optimization",
+    "text": "Best Practices for AI Workflow Optimization\n\nStart with Clear Objectives\nBefore implementing any AI solution, clearly define what you want to achieve. Are you looking to: - Reduce processing time? - Improve accuracy? - Enhance customer experience? - Increase operational efficiency?\n\n\nBenchmark Against Industry Peers\nUnderstanding how your AI workflows compare to industry standards is crucial. This involves:\n\nAnalyzing industry reports and case studies\nParticipating in industry benchmarking studies\nNetworking with peers to share best practices\nRegular assessment of competitive landscape\n\n\n\nHuman-AI Collaboration\nThe most successful AI implementations focus on augmenting human capabilities rather than replacing them. Consider:\n\nTraining employees to work effectively with AI tools\nCreating feedback loops between human and AI systems\nEnsuring AI decisions are explainable and auditable\nMaintaining human oversight for critical decisions"
   },
   {
-    "objectID": "index.html#advance-your-technology-community",
-    "href": "index.html#advance-your-technology-community",
-    "title": "Midori AI for Business Acceleration",
-    "section": "Advance Your Technology Community",
-    "text": "Advance Your Technology Community\nStrategic discussions with humans is on the rise thanks to AI handling basic QA questions.\nLearn More →"
+    "objectID": "posts/ai-workflow-optimization.html#measuring-success",
+    "href": "posts/ai-workflow-optimization.html#measuring-success",
+    "title": "Optimizing AI Workflows for Maximum Business Impact",
+    "section": "Measuring Success",
+    "text": "Measuring Success\nTo ensure your AI workflow optimization is delivering results, track these key metrics:\n\nEfficiency Gains: Time saved per process\nAccuracy Improvements: Reduction in errors\nCost Savings: ROI on AI investments\nUser Satisfaction: Employee and customer feedback\nScalability: Ability to handle increased workloads"
+  },
+  {
+    "objectID": "posts/ai-workflow-optimization.html#looking-ahead",
+    "href": "posts/ai-workflow-optimization.html#looking-ahead",
+    "title": "Optimizing AI Workflows for Maximum Business Impact",
+    "section": "Looking Ahead",
+    "text": "Looking Ahead\nAs AI technology continues to evolve, staying ahead requires:\n\nContinuous learning and adaptation\nRegular technology assessments\nStrategic partnerships with AI vendors\nInvestment in employee AI literacy\n\nThe future belongs to organizations that can effectively integrate AI into their workflows while maintaining the human touch that customers value.\n\nReady to optimize your AI workflows? Contact us to learn how we can help you benchmark and improve your AI strategy."
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Latest Insights",
+    "section": "",
+    "text": "Oppgreet\n    \n    \n      \n    \n    \n      \n        \n          Home\n        \n        \n          About\n        \n        \n          Latest Insights\n        \n      \n      \n        Become a Client"
+  },
+  {
+    "objectID": "posts/index.html#optimizing-ai-workflows-for-maximum-business-impact",
+    "href": "posts/index.html#optimizing-ai-workflows-for-maximum-business-impact",
+    "title": "Latest Insights",
+    "section": "Optimizing AI Workflows for Maximum Business Impact",
+    "text": "Optimizing AI Workflows for Maximum Business Impact\nLearn how to benchmark your AI workflows against industry peers and optimize your marketing strategy for better results.\nRead More →"
+  },
+  {
+    "objectID": "posts/index.html#the-future-of-human-ai-collaboration-in-business",
+    "href": "posts/index.html#the-future-of-human-ai-collaboration-in-business",
+    "title": "Latest Insights",
+    "section": "The Future of Human-AI Collaboration in Business",
+    "text": "The Future of Human-AI Collaboration in Business\nDiscover how strategic discussions with humans are on the rise thanks to AI handling basic QA questions, and what this means for your business.\nRead More →"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Oppgreet\n    \n    \n      \n    \n    \n      \n        \n          Home\n        \n        \n          About\n        \n        \n          Latest Insights\n        \n      \n      \n        Become a Client"
+  },
+  {
+    "objectID": "about.html#our-mission",
+    "href": "about.html#our-mission",
+    "title": "About",
+    "section": "Our Mission",
+    "text": "Our Mission\nOppgreet is a leading consulting firm that helps organizations navigate disruption through adaptive leadership strategies and innovative technology solutions."
+  },
+  {
+    "objectID": "about.html#what-we-do",
+    "href": "about.html#what-we-do",
+    "title": "About",
+    "section": "What We Do",
+    "text": "What We Do\n\nTechnology Insights: We monitor emerging technologies so you can focus on your core business\nIndustry Benchmarking: Compare your performance against industry peers and best practices\nLeadership Development: Build adaptive leadership capabilities for uncertain times\nStrategic Consulting: Develop resilient strategies that weather market disruptions"
+  },
+  {
+    "objectID": "about.html#our-approach",
+    "href": "about.html#our-approach",
+    "title": "About",
+    "section": "Our Approach",
+    "text": "Our Approach\nWe combine deep industry expertise with cutting-edge research to deliver actionable insights that drive real business results. Our two-part approach focuses on both strategic planning and tactical execution.\nContact Us →"
   }
 ]

@@ -45,9 +45,15 @@ document.addEventListener('DOMContentLoaded', function() {
     const ctaButtons = document.querySelectorAll('.cta-button');
     ctaButtons.forEach(button => {
         button.addEventListener('click', function(e) {
-            e.preventDefault();
-            // Add your CTA logic here
-            console.log('CTA button clicked:', this.textContent);
+            // Only prevent default if it's not a link
+            if (!this.hasAttribute('href')) {
+                e.preventDefault();
+                // Add your CTA logic here
+                console.log('CTA button clicked:', this.textContent);
+            } else {
+                // For links, just log the click but allow navigation
+                console.log('CTA link clicked:', this.textContent, '->', this.href);
+            }
         });
     });
 

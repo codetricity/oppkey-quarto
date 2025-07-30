@@ -181,6 +181,9 @@ header.navbar {
   border-radius: 4px;
   font-weight: 600;
   transition: all 0.3s ease;
+  cursor: pointer;
+  position: relative;
+  z-index: 10;
 }
 
 .cta-button:hover {
