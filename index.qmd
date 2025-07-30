@@ -7,7 +7,7 @@
 :::
 
 ::: {.hero-content}
-# Deploy Adaptive AI to Business Acceleration
+# Deploy Adaptive AI for Business Acceleration
 
 With this two-part approach.
 
@@ -21,9 +21,10 @@ With this two-part approach.
 ![](images/building_square.png)
 :::
 ::: {.card-content}
-## We Watch Tech So You Don't Have To
+## Benchmark Your AI Workflow Against Industry Peers
 
-Stay ahead of the curve with our comprehensive technology insights and analysis.
+Compare your performance with industry standards and optimize your marketing strategy.
+
 
 [Get Insights →]{.card-cta}
 :::
@@ -34,11 +35,11 @@ Stay ahead of the curve with our comprehensive technology insights and analysis.
 ![](images/global_business.jpg)
 :::
 ::: {.card-content}
-## Benchmark Your Marketing Spend Against Industry Peers
+## Integrate Human and AI Workflows
 
-Compare your performance with industry standards and optimize your marketing strategy.
+Augment your human workflows with AI to achieve marketing results for your customers.
 
-[See the Data →]{.card-cta}
+[Learn Best Practices →]{.card-cta}
 :::
 :::
 
@@ -47,11 +48,11 @@ Compare your performance with industry standards and optimize your marketing str
 ![](images/meeting.jpg)
 :::
 ::: {.card-content}
-## Where Oppgreet Comes to Life for Leaders
+## Build Authentic Human Communities
 
-Connect with industry experts and discover innovative solutions for your business challenges.
+Strategic discussions with humans is on the rise thanks to AI handling basic QA questions.
 
-[Buy Tickets →]{.card-cta}
+[Learn More →]{.card-cta}
 :::
 :::
 :::
