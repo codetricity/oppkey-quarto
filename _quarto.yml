@@ -4,16 +4,17 @@ project:
 website:
   title: "Oppgreet"
   navbar: false
+  page-navigation: true
 
 format:
   html:
     theme: default
     css:
-      - template-assets/css/custom.css
+      - /template-assets/css/custom.css
     include-before-body: _includes/header.html
     include-after-body: _includes/footer.html
     include-in-header:
       - text: |
-          <script src="template-assets/js/custom.js"></script>
+          <script src="/template-assets/js/custom.js"></script>
       - text: |
-          <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+          <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
