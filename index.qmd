@@ -11,7 +11,7 @@
 
 Build authentic human engagement.
 
-[Learn How →]{.cta-button}
+[Learn How →](midori.qmd){.cta-button}
 :::
 :::
 

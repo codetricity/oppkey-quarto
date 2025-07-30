@@ -1,0 +1,80 @@
+---
+title: "Midori AI"
+css: template-assets/css/midori-page.css
+---
+
+::: {.midori-container}
+
+::: {.midori-content}
+
+::: {.mission-section}
+
+# We deliver <span class="highlight">intelligent automation</span> and <span class="highlight">workflow optimization</span> to businesses.
+
+Our AI-powered solutions enable faster, smarter decisions and stronger performance on your organization's mission-critical priorities through authentic human engagement.
+
+:::
+
+::: {.image-section}
+
+![](images/midori_pose_1.png)
+
+:::
+
+:::
+
+::: {.midori-content style="margin-top: 4rem;"}
+
+::: {.stats-section}
+
+## About Midori AI
+
+::: {.stats-grid}
+
+::: {.stat-item}
+
+::: {.stat-number}
+**24/7**
+:::
+
+Intelligent automation available around the clock for continuous business optimization.
+
+:::
+
+::: {.stat-item}
+
+::: {.stat-number}
+**90%**
+:::
+
+Average efficiency improvement in workflow processes across client organizations.
+
+:::
+
+::: {.stat-item}
+
+::: {.stat-number}
+**500+**
+:::
+
+Businesses worldwide trust Midori AI for their automation and optimization needs.
+
+:::
+
+::: {.stat-item}
+
+::: {.stat-number}
+**3x**
+:::
+
+Faster decision-making capabilities through AI-powered insights and recommendations.
+
+:::
+
+:::
+
+:::
+
+:::
+
+:::
