@@ -107,11 +107,105 @@ ul.task-list li input[type="checkbox"] {
         </li>
       </ul>
       <div class="d-flex align-items-center">
-        <a href="#contact" class="btn btn-primary">Become a Client</a>
+        <button id="becomeClientBtn" class="btn btn-primary">Become a Client</button>
       </div>
     </div>
   </div>
 </header>
+
+<!-- Client Form Modal -->
+<div id="clientModal" class="modal-overlay">
+  <div class="modal-content">
+    <div class="modal-header">
+      <button class="modal-close" id="closeModal">×</button>
+    </div>
+    <div class="modal-body">
+      <div class="modal-left">
+        <h2 class="anchored">Become a Client</h2>
+        <p>Clients receive 24/7 access to proven management and technology research, expert advice, benchmarks, diagnostics and more. Fill out the form to connect with a representative and learn more.</p>
+        <div class="contact-info">
+          <h3 class="anchored">Or give us a call</h3>
+          <div class="phone-number">1 800 213 4848</div>
+          <div class="hours">
+            <div>8 a.m. – 7 p.m. ET</div>
+            <div>8 a.m. – 5 p.m. GMT</div>
+            <div>Monday through Friday</div>
+          </div>
+        </div>
+      </div>
+      <div class="modal-right">
+        <form id="clientForm" class="client-form">
+          <div class="form-row">
+            <div class="form-group">
+              <label for="workEmail">Work Email</label>
+              <input type="email" id="workEmail" name="workEmail" required="">
+            </div>
+            <div class="form-group">
+              <label for="jobTitle">Job Title</label>
+              <input type="text" id="jobTitle" name="jobTitle" required="">
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="firstName">First Name</label>
+              <input type="text" id="firstName" name="firstName" required="">
+            </div>
+            <div class="form-group">
+              <label for="companyName">Company Name</label>
+              <input type="text" id="companyName" name="companyName" required="">
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="lastName">Last Name</label>
+              <input type="text" id="lastName" name="lastName" required="">
+            </div>
+            <div class="form-group">
+              <label for="jobFunction">Job Function</label>
+              <select id="jobFunction" name="jobFunction" required="">
+                <option value="">Select Job Function</option>
+                <option value="IT Management">IT Management</option>
+                <option value="Business Strategy">Business Strategy</option>
+                <option value="Operations">Operations</option>
+                <option value="Finance">Finance</option>
+                <option value="Marketing">Marketing</option>
+                <option value="Sales">Sales</option>
+                <option value="Human Resources">Human Resources</option>
+                <option value="Other">Other</option>
+              </select>
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="phone">Phone</label>
+              <input type="tel" id="phone" name="phone" required="">
+            </div>
+            <div class="form-group">
+              <label for="country">Country/Region/Territory</label>
+              <select id="country" name="country" required="">
+                <option value="">Select Country</option>
+                <option value="United States">United States</option>
+                <option value="Canada">Canada</option>
+                <option value="United Kingdom">United Kingdom</option>
+                <option value="Germany">Germany</option>
+                <option value="France">France</option>
+                <option value="Australia">Australia</option>
+                <option value="Japan">Japan</option>
+                <option value="Other">Other</option>
+              </select>
+            </div>
+          </div>
+          <div class="form-footer">
+            <div class="consent-text">
+              By proceeding, you agree to the <a href="#" class="terms-link">Oppgreet Terms of Use</a> and <a href="#" class="terms-link">Privacy Policy</a>.
+            </div>
+            <button type="submit" class="submit-btn">Submit</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -149,13 +243,14 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="optimizing-ai-workflows-for-maximum-business-impact" class="level1 blog-content">
+<h1>Optimizing AI Workflows for Maximum Business Impact</h1>
 <div class="blog-header">
 <p><img src="../images/office.jpg" class="img-fluid"></p>
 </div>
-<section id="optimizing-ai-workflows-for-maximum-business-impact" class="level1 blog-content">
-<h1>Optimizing AI Workflows for Maximum Business Impact</h1>
 <div class="blog-meta">
-<p><em>January 15, 2024</em></p>
+<p><strong>AUTHOR:</strong> John Doe<br>
+<strong>PUBLISHED:</strong> July 15, 2025</p>
 </div>
 <p>In today’s rapidly evolving business landscape, organizations are increasingly turning to AI to streamline their operations and gain competitive advantages. However, simply implementing AI solutions isn’t enough—you need to optimize your workflows to achieve maximum impact.</p>
 <section id="the-challenge-of-ai-integration" class="level2">

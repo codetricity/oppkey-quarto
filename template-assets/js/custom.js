@@ -55,6 +55,95 @@ document.addEventListener('DOMContentLoaded', function() {
     window.addEventListener('load', function() {
         document.body.classList.add('loaded');
     });
+
+    // Modal functionality for "Become a Client" form
+    const modal = document.getElementById('clientModal');
+    const openBtn = document.getElementById('becomeClientBtn');
+    const closeBtn = document.getElementById('closeModal');
+    const form = document.getElementById('clientForm');
+
+    if (modal && openBtn && closeBtn && form) {
+        // Open modal
+        openBtn.addEventListener('click', function() {
+            modal.classList.add('show');
+            document.body.style.overflow = 'hidden'; // Prevent background scrolling
+        });
+
+        // Close modal
+        function closeModal() {
+            modal.classList.remove('show');
+            document.body.style.overflow = ''; // Restore scrolling
+        }
+
+        closeBtn.addEventListener('click', closeModal);
+
+        // Close modal when clicking outside
+        modal.addEventListener('click', function(e) {
+            if (e.target === modal) {
+                closeModal();
+            }
+        });
+
+        // Close modal with Escape key
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && modal.classList.contains('show')) {
+                closeModal();
+            }
+        });
+
+        // Handle form submission
+        form.addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            // Get form data
+            const formData = new FormData(form);
+            const data = Object.fromEntries(formData);
+            
+            // Here you would typically send the data to your server
+            console.log('Form submitted with data:', data);
+            
+            // Show success message (you can customize this)
+            alert('Thank you for your interest! A representative will contact you soon.');
+            
+            // Close modal
+            closeModal();
+            
+            // Reset form
+            form.reset();
+        });
+
+        // Add focus management for accessibility
+        const focusableElements = modal.querySelectorAll(
+            'button, [href], input, select, textarea, [tabindex]:not([tabindex="-1"])'
+        );
+        
+        const firstFocusableElement = focusableElements[0];
+        const lastFocusableElement = focusableElements[focusableElements.length - 1];
+
+        // Trap focus within modal when open
+        modal.addEventListener('keydown', function(e) {
+            if (e.key === 'Tab') {
+                if (e.shiftKey) {
+                    if (document.activeElement === firstFocusableElement) {
+                        e.preventDefault();
+                        lastFocusableElement.focus();
+                    }
+                } else {
+                    if (document.activeElement === lastFocusableElement) {
+                        e.preventDefault();
+                        firstFocusableElement.focus();
+                    }
+                }
+            }
+        });
+
+        // Focus first element when modal opens
+        openBtn.addEventListener('click', function() {
+            setTimeout(() => {
+                firstFocusableElement.focus();
+            }, 100);
+        });
+    }
 });
 
 // Add CSS for scroll effect
