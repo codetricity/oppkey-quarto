@@ -13,8 +13,11 @@ image: "../images/meeting.jpg"
 ::: {.blog-content}
 # The Future of Human-AI Collaboration in Business
 
+Discover how strategic discussions with humans are on the rise thanks to AI handling basic QA questions, and what this means for your business.
+
 ::: {.blog-meta}
-*January 10, 2024*
+**AUTHOR:** John Doe  
+**PUBLISHED:** July 10, 2025
 :::
 
 The landscape of business communication is undergoing a profound transformation. As AI systems become increasingly sophisticated at handling routine queries and basic questions, human professionals are finding themselves freed up for more strategic, high-value interactions.

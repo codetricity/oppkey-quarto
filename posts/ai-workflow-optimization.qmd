@@ -6,15 +6,16 @@ description: "Learn how to benchmark your AI workflows against industry peers an
 image: "../images/office.jpg"
 ---
 
+::: {.blog-content}
+# Optimizing AI Workflows for Maximum Business Impact
+
 ::: {.blog-header}
 ![](../images/office.jpg)
 :::
 
-::: {.blog-content}
-# Optimizing AI Workflows for Maximum Business Impact
-
 ::: {.blog-meta}
-*January 15, 2024*
+**AUTHOR:** John Doe  
+**PUBLISHED:** July 15, 2025
 :::
 
 In today's rapidly evolving business landscape, organizations are increasingly turning to AI to streamline their operations and gain competitive advantages. However, simply implementing AI solutions isn't enough—you need to optimize your workflows to achieve maximum impact.

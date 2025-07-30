@@ -18,3 +18,5 @@ format:
           <script src="/template-assets/js/custom.js"></script>
       - text: |
           <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    execute:
+      echo: true
