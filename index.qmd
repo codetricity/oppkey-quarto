@@ -1,0 +1,42 @@
+---
+---
+
+::: {.hero-section}
+::: {.hero-background}
+![](images/glass_building.jpg)
+:::
+
+::: {.hero-content}
+# Deploy Adaptive Leadership to Weather Disruption
+
+With this two-part approach.
+
+[Learn How →]{.cta-button}
+:::
+:::
+
+::: {.content-cards}
+::: {.card}
+::: {.card-content}
+## We Watch Tech So You Don't Have To
+
+Stay ahead of the curve with our comprehensive technology insights and analysis.
+:::
+:::
+
+::: {.card}
+::: {.card-content}
+## Benchmark Your Marketing Spend Against Industry Peers
+
+Compare your performance with industry standards and optimize your marketing strategy.
+:::
+:::
+
+::: {.card}
+::: {.card-content}
+## Where Oppgreet Comes to Life for Leaders
+
+Connect with industry experts and discover innovative solutions for your business challenges.
+:::
+:::
+:::

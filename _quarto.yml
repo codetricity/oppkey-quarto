@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "Oppgreet"
+  navbar: false
+
+format:
+  html:
+    theme: default
+    css:
+      - template-assets/css/custom.css
+    include-before-body: _includes/header.html
+    include-after-body: _includes/footer.html
+    include-in-header:
+      - text: |
+          <script src="template-assets/js/custom.js"></script>

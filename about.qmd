@@ -1,0 +1,24 @@
+---
+title: "About"
+---
+
+::: {.about-content}
+# About Oppgreet
+
+## Our Mission
+
+Oppgreet is a leading consulting firm that helps organizations navigate disruption through adaptive leadership strategies and innovative technology solutions.
+
+## What We Do
+
+- **Technology Insights**: We monitor emerging technologies so you can focus on your core business
+- **Industry Benchmarking**: Compare your performance against industry peers and best practices
+- **Leadership Development**: Build adaptive leadership capabilities for uncertain times
+- **Strategic Consulting**: Develop resilient strategies that weather market disruptions
+
+## Our Approach
+
+We combine deep industry expertise with cutting-edge research to deliver actionable insights that drive real business results. Our two-part approach focuses on both strategic planning and tactical execution.
+
+[Contact Us →]{.cta-button}
+:::
