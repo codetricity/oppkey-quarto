@@ -66,6 +66,7 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 <script src="template-assets/js/custom.js"></script>
+<link rel="icon" type="image/x-icon" href="images/favicon.ico">
 
 
 <link rel="stylesheet" href="template-assets/css/custom.css">
@@ -116,29 +117,41 @@ ul.task-list li input[type="checkbox"] {
 <div class="hero-background">
 <p><img src="images/glass_building.jpg" class="img-fluid"></p>
 </div>
-<section id="deploy-adaptive-leadership-to-weather-disruption" class="level1 hero-content">
-<h1>Deploy Adaptive Leadership to Weather Disruption</h1>
+<section id="deploy-adaptive-ai-to-business-acceleration" class="level1 hero-content">
+<h1>Deploy Adaptive AI to Business Acceleration</h1>
 <p>With this two-part approach.</p>
 <p><span class="cta-button">Learn How →</span></p>
 </section>
 </div>
 <div class="content-cards">
-<div class="card">
+<div class="card card-with-image">
+<div class="card-background">
+<p><img src="images/building_square.png" class="img-fluid"></p>
+</div>
 <section id="we-watch-tech-so-you-dont-have-to" class="level2 card-content">
 <h2 class="anchored" data-anchor-id="we-watch-tech-so-you-dont-have-to">We Watch Tech So You Don’t Have To</h2>
 <p>Stay ahead of the curve with our comprehensive technology insights and analysis.</p>
+<p><span class="card-cta">Get Insights →</span></p>
 </section>
 </div>
-<div class="card">
+<div class="card card-with-image">
+<div class="card-background">
+<p><img src="images/global_business.jpg" class="img-fluid"></p>
+</div>
 <section id="benchmark-your-marketing-spend-against-industry-peers" class="level2 card-content">
 <h2 class="anchored" data-anchor-id="benchmark-your-marketing-spend-against-industry-peers">Benchmark Your Marketing Spend Against Industry Peers</h2>
 <p>Compare your performance with industry standards and optimize your marketing strategy.</p>
+<p><span class="card-cta">See the Data →</span></p>
 </section>
 </div>
-<div class="card">
+<div class="card card-with-image">
+<div class="card-background">
+<p><img src="images/meeting.jpg" class="img-fluid"></p>
+</div>
 <section id="where-oppgreet-comes-to-life-for-leaders" class="level2 card-content">
 <h2 class="anchored" data-anchor-id="where-oppgreet-comes-to-life-for-leaders">Where Oppgreet Comes to Life for Leaders</h2>
 <p>Connect with industry experts and discover innovative solutions for your business challenges.</p>
+<p><span class="card-cta">Buy Tickets →</span></p>
 </section>
 </div>
 </div>
@@ -354,7 +367,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/codetricity\.github\.io\/oppkey-quarto\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
