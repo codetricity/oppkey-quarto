@@ -7,9 +7,9 @@
 :::
 
 ::: {.hero-content}
-# Deploy Adaptive AI for Business Acceleration
+#  Midori AI for Business Acceleration
 
-With this two-part approach.
+Build authentic human engagement.
 
 [Learn How →]{.cta-button}
 :::
@@ -48,7 +48,7 @@ Augment your human workflows with AI to achieve marketing results for your custo
 ![](images/meeting.jpg)
 :::
 ::: {.card-content}
-## Build Authentic Human Communities
+## Advance Your Technology Community
 
 Strategic discussions with humans is on the rise thanks to AI handling basic QA questions.
 
