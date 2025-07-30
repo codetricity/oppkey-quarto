@@ -57,6 +57,23 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
+    // Add click handlers for clickable cards
+    const clickableCards = document.querySelectorAll('.clickable-card');
+    clickableCards.forEach(card => {
+        card.addEventListener('click', function(e) {
+            // Don't trigger if clicking on the CTA button (let it handle its own click)
+            if (e.target.closest('.card-cta')) {
+                return;
+            }
+            
+            // Find the CTA link within this card
+            const ctaLink = this.querySelector('.card-cta');
+            if (ctaLink && ctaLink.href) {
+                window.location.href = ctaLink.href;
+            }
+        });
+    });
+
     // Add loading animation
     window.addEventListener('load', function() {
         document.body.classList.add('loaded');

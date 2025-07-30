@@ -55,4 +55,17 @@ Strategic discussions with humans is on the rise thanks to AI handling basic QA 
 [Learn More →]{.card-cta}
 :::
 :::
+
+::: {.card .card-with-image .clickable-card}
+::: {.card-background}
+![](images/laptop-coding.jpg)
+:::
+::: {.card-content}
+## Optimize Your AI Workflow
+
+Streamline your coding process with AI-powered tools that enhance productivity and code quality.
+
+[Explore Tools →](optimize-your-ai-workflow.qmd){.card-cta}
+:::
+:::
 :::

@@ -274,6 +274,32 @@ header.navbar {
   transform: translateX(100%);
 }
 
+/* Clickable card styles */
+.clickable-card {
+  cursor: pointer;
+  position: relative;
+}
+
+.clickable-card::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 3;
+}
+
+.clickable-card .card-content {
+  pointer-events: none;
+}
+
+.clickable-card .card-cta {
+  pointer-events: auto;
+  position: relative;
+  z-index: 4;
+}
+
 .card-content h2 {
   font-size: 1.5rem;
   font-weight: 600;
