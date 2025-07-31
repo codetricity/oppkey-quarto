@@ -23,7 +23,31 @@ Our AI-powered solutions enable faster, smarter decisions and stronger performan
 
 :::
 
-::: {.midori-content style="margin-top: 4rem;"}
+:::
+
+::: {.oppkey-section}
+
+# Oppkey Developer Engagement & AI Content Engine
+
+## Let's engage on Reddit!
+
+Oppkey helps technology marketers turn real developer conversations into scalable, credible technical content. We kick it off with authentic Reddit posts (human‑led, pros & cons, real usage). Our in‑house AI tool - Midori Reddit — then summarizes the thread, extracts issues, and scores what matters most. The Oppkey Developer Network (vetted practitioners) validates and enriches the AI output so content is accurate, practical, and trusted. That signal drives a content flywheel — posting more on Reddit or blogs, docs fixes, comparison guides, short videos — fed back into the community for even deeper engagement. Result: faster learning cycles, better mid‑funnel conversion, and developer trust at scale.
+
+### Key Points:
+
+**Start real:** Original post from Oppkey Developer Network publishes candid technical information to Reddit
+
+**Listen at scale:** Midori Reddit mines post thread for themes, pain points, sentiment, and priority scores.
+
+**Turn signal into assets:** Produce related posts on Reddit or outside channels like blogs, docs updates, tutorials, or videos mapped to developer needs based on Reddit thread information.
+
+**Outcome:** Authentic engagement, quicker mid‑funnel movement, trust that marketing alone can't buy.
+
+:::
+
+::: {.midori-container}
+
+::: {.midori-content}
 
 ::: {.stats-section}
 

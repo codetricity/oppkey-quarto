@@ -1,9 +1,50 @@
 .midori-container {
     background: linear-gradient(135deg, #1e3a8a 0%, #1e40af 100%);
     color: white;
-    padding: 4rem 2rem;
-    min-height: 100vh;
+    padding: 0.5rem 2rem;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.oppkey-section {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0.5rem 2rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #1f2937;
+    background: white;
+}
+
+.oppkey-section h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: #1e3a8a;
+}
+
+.oppkey-section h2 {
+    font-size: 1.75rem;
+    font-weight: 600;
+    margin-bottom: 1.5rem;
+    color: #1e40af;
+}
+
+.oppkey-section h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: #1e3a8a;
+}
+
+.oppkey-section p {
+    font-size: 1.1rem;
+    line-height: 1.7;
+    margin-bottom: 1.5rem;
+    color: #374151;
+}
+
+.oppkey-section strong {
+    color: #1e3a8a;
+    font-weight: 600;
 }
 
 .midori-content {
@@ -29,7 +70,7 @@
 .mission-section p {
     font-size: 1.25rem;
     line-height: 1.6;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
     opacity: 0.9;
 }
 
@@ -43,10 +84,12 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
+    padding-bottom: 0;
 }
 
 .stat-item {
     text-align: center;
+    margin-bottom: 0;
 }
 
 .stat-number {
@@ -61,6 +104,7 @@
     font-size: 1rem;
     line-height: 1.4;
     opacity: 0.9;
+    margin-bottom: 0;
 }
 
 .image-section {
