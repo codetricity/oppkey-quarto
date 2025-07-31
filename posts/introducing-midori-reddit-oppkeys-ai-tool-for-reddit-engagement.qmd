@@ -1,0 +1,106 @@
+---
+title: "Introducing Midori Reddit, Oppkey's AI tool for Reddit engagement"
+date: 2025-07-30
+description: "Connect authentically with developer communities. Scale technical content fast. Turn real-world feedback into a continuous growth loop across Reddit, GitHub, forums, blogs, and video."
+image: "../images/midori-reddit.png"
+---
+
+# Introducing Midori Reddit, Oppkey's AI tool for Reddit engagement
+
+Connect authentically with developer communities. Scale technical content fast. Turn real-world feedback into a continuous growth loop across Reddit, GitHub, forums, blogs, and video.
+
+![](../images/midori-reddit.png){.midori-image}
+
+<style>
+.midori-image {
+  border: 4px solid #0066cc;
+  border-radius: 8px;
+  display: block;
+  margin: 2rem auto;
+}
+</style>
+
+## Executive Summary
+
+Modern developer marketing breaks down when content feels promotional, out of date, or disconnected from how real engineers work. Oppkey fixes that by combining human community participation with AI-assisted analysis and content development. 
+
+We start real conversations in developer hubs (Reddit, GitHub, technical forums), listen to what developers actually say, and then use our in‑house AI platform—Midori Reddit—to surface the issues that matter. 
+
+Our Oppkey Developer Network vets and extends the resulting content so it's accurate, credible, and in the voice of practitioners—not just marketing.
+
+The result: faster learning cycles, more useful technical content, stronger mid‑funnel engagement, and developer trust at scale.
+
+If you want to try Midori Reddit for yourself, the tool is available online, password-protected. Just ask! jcasman@oppkey.com
+
+## Who It's For
+
+Marketing, DevRel, and Product Marketing teams at technology companies who need:
+
+- Authentic, field-tested messaging that resonates with developers.
+- Rapidly generated technical content grounded in real user pain points.
+- Scalable engagement across large, distributed communities (thousands of developers).
+- A structured way to turn community feedback into blogs, tutorials, docs, and videos.
+
+## The Core Workflow
+
+Below is the standard Oppkey Reddit → AI Insights → Content timeline. We tailor specifics per client.
+
+### 1. Real Technical Post to Reddit (Human-Led)
+
+Oppkey (or a vetted member of the Oppkey Developer Network) researches and actually uses your software. We publish a candid Reddit post: what worked, what didn't, where it shines, where it's rough. Pros + cons. Real screenshots, sample configs, short code, links. A named human account—not anonymous marketing.
+
+**Example:** Community discussion kicked off by Oppkey: Assessment of htmx with FastAPI, LLM, SSE, Jinja (r/htmx). Developers weighed in with architecture notes, performance concerns, templating tradeoffs, and integration gotchas—exactly the signal you need to prioritize content. 
+
+### 2. Community Response & Discussion
+
+Developers comment, correct, challenge, and extend. This is where the real gold lives: friction points, workarounds, missing docs, comparisons to competitors, and strong opinions that reveal buying triggers.
+
+### 3. Midori Reddit (AI Analysis)
+
+Our internally developed AI tool ingests the full Reddit thread and produces:
+
+- **General Summary:** Fast, high‑level thread overview—what topics came up, sentiment, volume, who's influential.
+- **Issue Extraction:** Key technical themes, pain points, blockers, frequently cited integrations.
+- **Priority Score:** Midori ranks which issues are most impactful for content follow‑up (weighted by frequency, sentiment intensity, and buyer relevance).
+- **Custom Summary:** Focused deep‑dive on a chosen topic (e.g., "SSE reliability in FastAPI + htmx"), with suggested content angles.
+
+### 4. Oppkey Developer Network Review (Human Validation)
+
+AI moves fast—but it can misread edge cases or over‑generalize. Our distributed network of domain practitioners vets, corrects, and enriches Midori's outputs. They:
+
+- Confirm whether reported issues are real and reproducible.
+- Add missing code snippets or config guidance.
+- Contribute counterpoints from production experience.
+
+## Why Reddit First?
+
+While you may already invest in docs, webinars, and gated content, Reddit gives you:
+
+- Unfiltered developer signal on real‑world usage, not staged demos.
+- Competitive intelligence—your stack vs alternatives show up fast.
+- Discovery of adjacent problems developers solve alongside your product.
+- Credibility through transparency: owning shortcomings builds trust.
+
+## The AI + Community Advantage (You Need Both)
+
+| Without Community | Without AI | With Oppkey's AI + Community Loop |
+|------------------|------------|-----------------------------------|
+| Scaled content, but risks inaccuracy & tone‑deaf messaging. | Accurate but slow; expensive SME bandwidth; insights locked in threads. | Rapid, accurate, and community‑validated technical content at scale. |
+
+AI is making human conversations more important, not less. AI clears away the repetitive, lower‑level questions; humans focus on architecture, risk, ops tradeoffs, and strategic adoption blockers. Oppkey sits at that intersection.
+
+## Oppkey Developer Network (ODN)
+
+A distributed, vetted group of working software developers, SREs, data scientists, and solution architects who:
+
+- Test client software in real scenarios.
+- Provide authentic commentary in community threads.
+- Review AI‑generated drafts for accuracy and tone.
+- Contribute fixes, examples, and comparison content.
+- Help identify which community voices are trusted by practitioners.
+
+**Why it matters:** AI alone can sound generic or, worse, wrong. ODN injects credibility, nuance, and lived experience.
+
+**How is it possible:** We store and manage 1000s of contacts and interactions through Oppkey's internal database-backed management system.
+
+If you want to try Midori Reddit for yourself, the tool is available online, password-protected. Just ask! jcasman@oppkey.com 

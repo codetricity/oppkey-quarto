@@ -8,6 +8,38 @@ Stay updated with the latest trends and insights in AI-powered business accelera
 
 ::: {.blog-grid}
 ::: {.blog-post-card}
+![](../images/office-laptop.jpg){.blog-post-image}
+
+::: {.blog-post-content}
+::: {.blog-post-date}
+July 30, 2025
+:::
+
+## [Introducing Midori Reddit, Oppkey's AI tool for Reddit engagement](introducing-midori-reddit-oppkeys-ai-tool-for-reddit-engagement.html){.blog-post-title}
+
+Connect authentically with developer communities. Scale technical content fast. Turn real-world feedback into a continuous growth loop across Reddit, GitHub, forums, blogs, and video.
+
+[Read More →](introducing-midori-reddit-oppkeys-ai-tool-for-reddit-engagement.html){.blog-post-link}
+:::
+:::
+
+::: {.blog-post-card}
+![](../images/keyboard-laptop.jpg){.blog-post-image}
+
+::: {.blog-post-content}
+::: {.blog-post-date}
+July 15, 2025
+:::
+
+## [Why Reddit Engagement Still Matters in the AI Era](why-reddit-engagement-still-matters-in-the-ai-era.html){.blog-post-title}
+
+Discover why human communities like Reddit remain essential for innovation despite the widespread adoption of AI tools in software development.
+
+[Read More →](why-reddit-engagement-still-matters-in-the-ai-era.html){.blog-post-link}
+:::
+:::
+
+::: {.blog-post-card}
 ![](../images/office.jpg){.blog-post-image}
 
 ::: {.blog-post-content}
@@ -36,22 +68,6 @@ January 10, 2024
 Discover how strategic discussions with humans are on the rise thanks to AI handling basic QA questions, and what this means for your business.
 
 [Read More →](human-ai-collaboration.qmd){.blog-post-link}
-:::
-:::
-
-::: {.blog-post-card}
-![](../images/keyboard-laptop.jpg){.blog-post-image}
-
-::: {.blog-post-content}
-::: {.blog-post-date}
-July 15, 2025
-:::
-
-## [Why Reddit Engagement Still Matters in the AI Era](why-reddit-engagement-still-matters-in-the-ai-era.html){.blog-post-title}
-
-Discover why human communities like Reddit remain essential for innovation despite the widespread adoption of AI tools in software development.
-
-[Read More →](why-reddit-engagement-still-matters-in-the-ai-era.html){.blog-post-link}
 :::
 :::
 :::
