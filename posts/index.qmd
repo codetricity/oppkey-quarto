@@ -38,6 +38,22 @@ Discover how strategic discussions with humans are on the rise thanks to AI hand
 [Read More →](human-ai-collaboration.qmd){.blog-post-link}
 :::
 :::
+
+::: {.blog-post-card}
+![](../images/keyboard-laptop.jpg){.blog-post-image}
+
+::: {.blog-post-content}
+::: {.blog-post-date}
+July 15, 2025
+:::
+
+## [Why Reddit Engagement Still Matters in the AI Era](why-reddit-engagement-still-matters-in-the-ai-era.html){.blog-post-title}
+
+Discover why human communities like Reddit remain essential for innovation despite the widespread adoption of AI tools in software development.
+
+[Read More →](why-reddit-engagement-still-matters-in-the-ai-era.html){.blog-post-link}
+:::
+:::
 :::
 
 <style>
