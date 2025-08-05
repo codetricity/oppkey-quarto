@@ -1,4 +1,4 @@
-# Why teams like yours often choose **Quarto** over **WordPress**
+# Why Oppkey Clients Should Choose **Quarto** Over **WordPress**
 
 Quarto offers a lightweight, reproducible, and highly secure publishing stack—especially attractive for data-heavy or developer-centric content—while WordPress remains the go-to for GUI-first editing and plug-and-play functionality. 
 
