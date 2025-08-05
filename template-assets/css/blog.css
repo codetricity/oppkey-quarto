@@ -1,5 +1,6 @@
-/* Blog grid and post card styles for posts index page */
+/* Blog styles for posts/index.qmd page */
 
+/* Blog Grid Styles */
 .blog-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
@@ -63,4 +64,12 @@
 .blog-post-link:hover {
   color: var(--accent-blue);
   text-decoration: none;
+}
+
+/* Responsive design for blog grid */
+@media (max-width: 768px) {
+  .blog-grid {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
 } 
