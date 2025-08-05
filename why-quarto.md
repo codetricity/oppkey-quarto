@@ -15,6 +15,7 @@ Quarto offers a lightweight, reproducible, and highly secure publishing stack—
 - **Complex community or commerce features** (forums, memberships, carts) you'd rather install than build from scratch.  
 - **Large plugin-driven ecosystems** (SEO suites, LMS platforms, etc.) you rely on.
 
+---
 
 | Need | How **Quarto** helps | Typical **WordPress** reality |
 |------|---------------------|------------------------------|
