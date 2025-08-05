@@ -1,8 +1,3 @@
----
-title: "Why teams like yours often choose Quarto over WordPress"
-description: "A comprehensive comparison of Quarto vs WordPress for technical teams, covering site speed, security, reproducible content, and developer workflows."
----
-
 # Why teams like yours often choose **Quarto** over **WordPress**
 
 | Need | How **Quarto** helps | Typical **WordPress** reality |
