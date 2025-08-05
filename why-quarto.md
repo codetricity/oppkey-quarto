@@ -1,5 +1,7 @@
 # Why teams like yours often choose **Quarto** over **WordPress**
 
+Quarto offers a lightweight, reproducible, and highly secure publishing stack—especially attractive for data-heavy or developer-centric content—while WordPress remains the go-to for GUI-first editing and plug-and-play functionality. 
+
 | Need | How **Quarto** helps | Typical **WordPress** reality |
 |------|---------------------|------------------------------|
 | **Site speed & hosting cost** | Generates plain HTML you can deploy to GitHub Pages, Netlify, Posit Connect, or any static server in seconds | Pages are built on-demand by PHP + a database, so you need a full LAMP/LEMP stack or a managed WP host |
@@ -23,7 +25,3 @@
 - **Marketing sites that change daily** and are edited by non-technical staff via WYSIWYG.  
 - **Complex community or commerce features** (forums, memberships, carts) you'd rather install than build from scratch.  
 - **Large plugin-driven ecosystems** (SEO suites, LMS platforms, etc.) you rely on.
-
----
-
-**Bottom line:** Quarto offers a lightweight, reproducible, and highly secure publishing stack—especially attractive for data-heavy or developer-centric content—while WordPress remains the go-to for GUI-first editing and plug-and-play functionality. 
