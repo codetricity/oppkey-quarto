@@ -1,6 +1,6 @@
 ---
 title: "Latest Insights"
-css: template-assets/css/posts-page.css
+css: /template-assets/css/posts-page.css
 ---
 
 # Latest Insights
