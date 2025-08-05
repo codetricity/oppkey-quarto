@@ -41,7 +41,7 @@ Quarto has distinct advantages for our clients who need:
 - **Sites that must be rock-solid under traffic spikes** (no PHP processes to exhaust).  
 - **Budgets that favor free static hosting** over managed WordPress plans.
 
-[Read more](why-quarto.qmd)
+[Read more](why-quarto.md)
 
 ## Design Strategy for Oppkey Quarto
 
