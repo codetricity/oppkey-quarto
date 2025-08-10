@@ -24,7 +24,7 @@
 
 Take multiple screenshots of an example website that has the key design elements that you want. Here, we used gartner.com 
 
-Note that it has the same key elements of this Oppgreet site:
+Note that it has the same key elements of this Oppkey site:
 
 * Header - with includes Logo | Nav bar main menu | "Become a client" button
 * Main image with overlayed CTA box and "Learn How" button
