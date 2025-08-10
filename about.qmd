@@ -3,11 +3,12 @@ title: "About"
 ---
 
 ::: {.about-content}
-# About Oppgreet
+# About Oppkey
 
 ## Our Mission
 
-Oppgreet is a leading consulting firm that helps organizations navigate disruption through adaptive leadership strategies and innovative technology solutions.
+Oppkey is a leading consulting firm that helps organizations navigate disruption through adaptive leadership 
+strategies and innovative technology solutions.
 
 ## What We Do
 

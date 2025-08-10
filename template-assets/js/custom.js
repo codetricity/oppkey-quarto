@@ -1,4 +1,4 @@
-// Custom JavaScript for Oppgreet website
+// Custom JavaScript for Oppkey website
 
 document.addEventListener('DOMContentLoaded', function() {
     // Smooth scrolling for navigation links
