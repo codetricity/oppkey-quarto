@@ -1,29 +1,33 @@
-# Why Oppkey Clients Should Choose **Quarto** Over **WordPress**
+# **Why Quarto for Oppkey Clients**
 
-Quarto offers a lightweight, reproducible, and highly secure publishing stack—especially attractive for data-heavy or developer-centric content—while WordPress remains the go-to for GUI-first editing and plug-and-play functionality. 
+![](images/oppkey-quarto.png){width=50%}
 
-## When Quarto really shines
+Building thriving developer communities requires more than polished marketing copy, it demands transparency, authenticity, and shared tooling. 
 
-- **Technical blogs, docs & dashboards** where code, data, and prose must stay in sync.  
-- **Teams already using Git/GitHub** for source control and collaboration.  
-- **Sites that must be rock-solid under traffic spikes** (no PHP processes to exhaust).  
-- **Budgets that favor free static hosting** over managed WordPress plans.
+A Quarto‑powered site delivers on all three.
 
-## Situations where WordPress can still be the faster path
+1. ## **Community‑First Transparency**
 
-- **Marketing sites that change daily** and are edited by non-technical staff via WYSIWYG.  
-- **Complex community or commerce features** (forums, memberships, carts) you'd rather install than build from scratch.  
-- **Large plugin-driven ecosystems** (SEO suites, LMS platforms, etc.) you rely on.
+* **Every edit is traceable.** Quarto projects live in Git/GitHub, so pull requests, commit histories, and discussions are all public by default, exactly how open source communities expect to collaborate.  
+* **Low‑friction contributions.** Markdown files are easy to fork and edit, lowering the barrier for external contributors compared with proprietary CMS back‑ends.  
+* **Built‑in review workflows.** Standard GitHub reviews and approvals keep content quality high without adding new platforms to learn.
 
----
+2. ## **Authentic Technical Presence**
 
-| Need | How **Quarto** helps | Typical **WordPress** reality |
-|------|---------------------|------------------------------|
-| **Reproducible, data-driven content** | Embed executable R, Python, Julia, or Observable blocks; figures/tables are regenerated every render | Requires separate notebooks, screenshots, or custom plugins; code and narrative drift over time |
-| **Integrated scientific/technical features** | Built-in cross-refs, equations (Pandoc), callouts, diagram shortcodes, full-text search, etc., with no extra plugins | Many of these require separate plugins or custom code (each one adding maintenance overhead) |
-| **Dev-friendly workflow** | All content lives in plain-text files—ideal for Git, pull requests, CI/CD, and automated previews; static hosting is free or cheap | GUI-centric; versioning or rolling back changes means DB exports or premium backup services |
-| **Publish once, target many formats** | The same `.qmd` sources can output HTML, PDF, Word, slides, or e-books from a single command | Core output is HTML; converting posts to print-ready PDFs or reports usually needs extra plugins/services |
-| **Site speed & hosting cost** | Generates plain HTML you can deploy to GitHub Pages, Netlify, Posit Connect, or any static server in seconds | Pages are built on-demand by PHP + a database, so you need a full LAMP/LEMP stack or a managed WP host |
-| **Security & maintenance** | No runtime code, databases, or plugins → essentially nothing to hack and nothing to patch | Plugin/theme ecosystem is vibrant but risky—hundreds of new vulnerabilities are disclosed each month |
+* **Looks like code, not marketing.** Quarto renders clean, lightweight HTML that feels native to developers. No ad trackers, no extra.  
+* **Narrative \+ executable examples.** Blend prose with runnable code chunks to provide living, trustworthy documentation that WordPress rarely matches.  
+* **Earned credibility.** Technical audiences instinctively trust sites that mirror open source norms; WordPress templates often read as promotional.
 
+3. ## **Shared Tooling \= Shared Success**
 
+* **Speak the community’s language.** Using the same Markdown‑plus‑Git/GitHub workflow as your contributors signals respect and makes collaboration seamless.  
+* **Reproducible builds.** A single `quarto render` command guarantees that anyone can rebuild the site locally, essential for transparent, verifiable docs.  
+* **Multilingual by design.** Quarto supports R, Python, Julia, and more, letting contributors document code in their language of choice without plug‑ins.
+
+4. ## **Future-Proofing:** 
+
+* Quarto’s plain-text, code-centric philosophy makes it a natural fit for LLM-assisted authoring, QA, and localization workflows.
+
+## **Summary**
+
+If your goal is to grow engaged, technically savvy communities, Quarto is the right foundation. It combines transparent version control, an authentic developer aesthetic, and the very toolchain your audience already uses—setting the stage for credible content and real collaboration.
