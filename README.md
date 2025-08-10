@@ -4,15 +4,15 @@
 
 ## front page
 
-![front page](docs/front_page.png)
+![front page](docs/front_page2.png)
 
 ## Oppkey White Papers
 
-![content layout](docs/content_layout.png)
+![content layout](docs/content_layout2.png)
 
 ## footer
 
-![footer](docs/footer.png)
+![footer](docs/footer2.png)
 
 ## blog index
 
