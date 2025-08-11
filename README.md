@@ -4,7 +4,7 @@
 
 ## front page
 
-![front page](docs/front_page2.png)
+![front page](docs/frontpage2.png)
 
 ## Oppkey White Papers
 
